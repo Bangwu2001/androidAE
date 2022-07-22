@@ -1,0 +1,14 @@
+1.WGAN
+2.VAE
+3.KL Divengence
+2.Gumbel softmax
+
+
+
+1.APK特征提取
+2.基于DNN的Mama分类模型的训练
+
+
+
+#今晚
+1.开会+104
